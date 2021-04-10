@@ -20,8 +20,8 @@ def main():
         output = model.compute_probabilities(input_ids, attention_mask)
     label = torch.argmax(output).item()
     end_time = time.time()
-    print(f"Probability of the tweet being sexist/racist: {(output[0][1] * 100):.1f}%")
-    print(f"Time taken: {(end_time - start_time):.1f} sec")
+    print(f"\t\t\t\t\t\tProbability of the tweet being sexist/racist: {(output[0][1] * 100):.1f}%")
+    print(f"\t\t\t\t\t\tTime taken: {(end_time - start_time):.1f} sec")
 
 
 if __name__ == "__main__":
