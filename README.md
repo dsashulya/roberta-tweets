@@ -4,7 +4,7 @@
 
 - [Процесс дообучения модели и PR-Curve](https://github.com/dsashulya/roberta-tweets/blob/main/training.ipynb)
 - [CLI](https://github.com/dsashulya/roberta-tweets/blob/main/cli.py)
-- [Файл с моделью](https://drive.google.com/file/d/1-0eBpgd50V-322p_EkJDWBIUaPTMekYb/view?usp=sharing)
+- [Файл с моделью](https://drive.google.com/file/d/1-Kk-_nUfy7krp0UBv1vck7yEpvD8zFPq/view?usp=sharing)
 
 Задание состоит из 3 частей:
 
