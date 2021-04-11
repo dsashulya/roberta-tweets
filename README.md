@@ -2,7 +2,7 @@
 
 Содержание:
 
-- [Процесс дообучения модели и PR-Curve]()
+- [Процесс дообучения модели и PR-Curve](https://github.com/dsashulya/roberta-tweets/blob/main/training.ipynb)
 - [CLI](https://github.com/dsashulya/roberta-tweets/blob/main/cli.py)
 - [Файл с моделью](https://drive.google.com/file/d/1-0eBpgd50V-322p_EkJDWBIUaPTMekYb/view?usp=sharing)
 
